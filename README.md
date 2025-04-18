@@ -1,4 +1,4 @@
-# Supervised ML- Predicting Credit Risk
+# Supervised ML- Predicting Credit Risks
 
 # Machine Learning Bootcamp Assignment
 
